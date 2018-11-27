@@ -1,0 +1,2 @@
+move_turtle:wander_bot
+-DCATKIN_DEVEL_PREFIX=/home/noa/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/noa/catkin_ws/install -G Unix Makefiles

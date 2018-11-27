@@ -1,0 +1,6 @@
+set(wander_bot_SETUP_PY_VERSION "0.0.0")
+set(wander_bot_SETUP_PY_SCRIPTS "")
+set(wander_bot_SETUP_PY_PACKAGES "wander_bot")
+set(wander_bot_SETUP_PY_PACKAGE_DIRS "src/wander_bot")
+set(wander_bot_SETUP_PY_MODULES "")
+set(wander_bot_SETUP_PY_MODULE_DIRS "")

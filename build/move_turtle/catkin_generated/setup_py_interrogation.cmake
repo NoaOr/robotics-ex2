@@ -1,0 +1,6 @@
+set(move_turtle_SETUP_PY_VERSION "0.0.0")
+set(move_turtle_SETUP_PY_SCRIPTS "")
+set(move_turtle_SETUP_PY_PACKAGES "move_turtle")
+set(move_turtle_SETUP_PY_PACKAGE_DIRS "src/move_turtle")
+set(move_turtle_SETUP_PY_MODULES "")
+set(move_turtle_SETUP_PY_MODULE_DIRS "")
